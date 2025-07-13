@@ -1,4 +1,4 @@
-# Ensemble-Deep-Learning for Human Activity Recognition (HAR)
+## Ensemble-Deep-Learning for Human Activity Recognition (HAR)
 
 This repository provides an implementation of an **ensemble hybrid deep learning framework** for **Human Activity Recognition (HAR)** using the **WISDM** dataset. It includes stacked models combining CNNs, RNN variants (LSTM, GRU, BiLSTM, BiGRU), and classical ensemble techniques (Random Forest, Gradient Boosting) for final classification.
 
