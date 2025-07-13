@@ -4,7 +4,7 @@ This repository provides an implementation of an **ensemble hybrid deep learning
 
 ---
 
-## 🚀 Project Highlights
+## Project Highlights
 
 - Hybrid deep learning models: CNN-BiGRU, CNN-BiLSTM, CNN-LSTM, and CNN-GRU.
 - Stack-based ensemble learning using predictions of deep models.
@@ -14,7 +14,7 @@ This repository provides an implementation of an **ensemble hybrid deep learning
 
 ---
 
-## 🧠 Models Included
+## Models Included
 
 - `CNN-GRU_Model_train_WISDM_500.ipynb`
 - `CNN-LSTM_Hybrid_model_500.ipynb`
@@ -24,7 +24,7 @@ This repository provides an implementation of an **ensemble hybrid deep learning
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 This project uses the [WISDM v1.1 dataset](https://www.cis.fordham.edu/wisdm/dataset.php), which includes smartphone accelerometer data for six activities:
 
@@ -45,15 +45,15 @@ This project uses the [WISDM v1.1 dataset](https://www.cis.fordham.edu/wisdm/dat
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/<your-username>/Ensemble-Deep-Learning.git
+    git clone https://github.com/AdaneNT/Ensemble-Deep-Learning.git
     cd Ensemble-Deep-Learning
     ```
 
-2. (Optional) Create a virtual environment and install dependencies:
+2. install dependencies:
     ```bash
     pip install -r requirements.txt
     ```
@@ -72,7 +72,7 @@ This project uses the [WISDM v1.1 dataset](https://www.cis.fordham.edu/wisdm/dat
 
 ---
 
-## ✅ Results
+## Results
 
 | Model             | Accuracy |
 |------------------|----------|
