@@ -76,7 +76,7 @@ This project uses the [WISDM v1.1 dataset](https://www.cis.fordham.edu/wisdm/dat
 
 | Model             | Accuracy |
 |------------------|----------|
-| CNN-BiGRU        | 99.91%   |
+| CNN-BiGRU        | ~99.91%   |
 | CNN-LSTM         | ~99.91%   |
 | CNN-BiLSTM       | ~99.87%   |
 | Stacked Ensemble | **99.96%** |
