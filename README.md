@@ -76,10 +76,10 @@ This project uses the [WISDM v1.1 dataset](https://www.cis.fordham.edu/wisdm/dat
 
 | Model             | Accuracy |
 |------------------|----------|
-| CNN-BiGRU        | 99.96%   |
-| CNN-LSTM         | ~98.5%   |
-| CNN-BiLSTM       | ~99.0%   |
-| Stacked Ensemble | **99.4%** |
+| CNN-BiGRU        | 99.91%   |
+| CNN-LSTM         | ~99.91%   |
+| CNN-BiLSTM       | ~99.87%   |
+| Stacked Ensemble | **99.96%** |
 
 > 📈 Confusion matrix heatmaps and classification reports are generated automatically in each notebook.
 
