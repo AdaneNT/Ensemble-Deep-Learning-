@@ -9,7 +9,7 @@ This repository provides an implementation of an **ensemble hybrid deep learning
 - Hybrid deep learning models: CNN-BiGRU, CNN-BiLSTM, CNN-LSTM, and CNN-GRU.
 - Stack-based ensemble learning using predictions of deep models.
 - Meta-learners include Random Forest and Gradient Boosting with GridSearchCV.
-- High accuracy achieved on the WISDM dataset (up to **99.4%**).
+- High accuracy achieved on the WISDM dataset.
 - Confusion matrix visualization and classification reports for evaluation.
 
 ---
@@ -85,5 +85,5 @@ This project uses the [WISDM v1.1 dataset](https://www.cis.fordham.edu/wisdm/dat
 
 ---
 
-## 📁 Project Structure
+
 
