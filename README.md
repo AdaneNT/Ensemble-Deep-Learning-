@@ -30,7 +30,6 @@ This repository contains the official code used in the published study:
 | `1__Stacked_ensemble_hybrid_model.ipynb`| Final ensemble using RF and GBoost |
 
 ---
-
 ## Datasets Used
 
 This study evaluated the proposed hybrid deep ensemble model on three datasets:
@@ -57,8 +56,15 @@ This study evaluated the proposed hybrid deep ensemble model on three datasets:
 - Open access via: [ALAMEDA Project](https://alamedaproject.eu/)
 
 ---
+## Framework Overview
 
-## 🧪 Results
+The architecture of the WS-HGAR model, combining sensor fusion, hybrid deep learning, and stacking ensemble:
+
+![Framework Overview](figures/ws-hgar-framework.png)
+
+*Figure 1: End-to-end structure of the proposed WS-HGAR model as described in the paper.*
+
+## Results
 
 | Model             | Accuracy   |
 |------------------|------------|
