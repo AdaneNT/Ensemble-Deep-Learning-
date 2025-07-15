@@ -1,7 +1,7 @@
 # Ensemble Deep Learning for Wearable Sensor Data Analysis
 **Human Activity Recognition (HAR) using Smart Belt, WISDM, and UCI Datasets**
 > **"Efficient Human Gait Activity Recognition Based on Sensor Fusion and Intelligent Stacking Framework"**  
-> Adane Tarekegn, Mario Giacobini, Gashaw Mamo, Ermias Asfaw  
+> Adane Tarekegn, Et al.  
 > *Published 2023*  
 > [DOI: 10.1007/978-3-031-29695-1_17](https://doi.org/10.1109/JSEN.2023.3319353)
 
