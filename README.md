@@ -65,17 +65,6 @@ The architecture of the WS-HGAR model, combining sensor fusion, hybrid deep lear
 
 *Figure 1: End-to-end structure of the proposed WS-HGAR model as described in the paper.*
 
-## Results
-
-| Model             | Accuracy   |
-|------------------|------------|
-| CNN-BiGRU         | ~99.91%    |
-| CNN-LSTM          | ~99.91%    |
-| CNN-BiLSTM        | ~99.87%    |
-| **Stacked Ensemble** | **99.96%** |
-
-Confusion matrix heatmaps and classification reports are generated in each notebook.
-
 ---
 
 ## How to Run
@@ -106,7 +95,16 @@ For the ensemble model:
 ```bash
 jupyter notebook 1__Stacked_ensemble_hybrid_model.ipynb
 ```
+## Results
 
+| Model             | Accuracy   |
+|------------------|------------|
+| CNN-BiGRU         | ~99.91%    |
+| CNN-LSTM          | ~99.91%    |
+| CNN-BiLSTM        | ~99.87%    |
+| **Stacked Ensemble** | **99.96%** |
+
+Confusion matrix heatmaps and classification reports are generated in each notebook.
 ---
 
 ## 📖 Citation
