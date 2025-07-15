@@ -53,7 +53,7 @@ This study evaluated the proposed hybrid deep ensemble model on three datasets:
 - Activities: Walking, walking upstairs/downstairs, sitting, standing, lying
 - Annotated using [**NOVA**](https://github.com/hcmlab/nova)
 - Dataset available in the [`Datasets/`](./Datasets/) folder (`smart_belt_dataset.csv`)  
-  or externally from the [ALAMEDA Project](https://alamedaproject.eu/)
+  or [external link](https://alamedaproject.eu/)
 - Oversampling applied to balance activity classes
 
 ---
