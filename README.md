@@ -52,7 +52,7 @@ This study evaluated the proposed hybrid deep ensemble model on three datasets:
 - Collected from 12 participants using a custom belt with 3 IMU sensors (sampling rate: 100 Hz)
 - Activities: Walking, walking upstairs/downstairs, sitting, standing, lying
 - Annotated using [**NOVA**](https://github.com/hcmlab/nova)
-- Dataset available in the [`Datasets/`](./Datasets/) folder (`smart_belt.csv`)  
+- Dataset available in the [`Datasets/`](./Datasets/) folder (`smart_belt_dataset.csv`)  
   or externally from the [ALAMEDA Project](https://alamedaproject.eu/)
 - Oversampling applied to balance activity classes
 
