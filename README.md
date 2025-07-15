@@ -104,7 +104,6 @@ jupyter notebook 1__Stacked_ensemble_hybrid_model.ipynb
 | CNN-BiLSTM        | ~99.87%    |
 | **Stacked Ensemble** | **99.96%** |
 
-Confusion matrix heatmaps and classification reports are generated in each notebook.
 ---
 
 ## 📖 Citation
