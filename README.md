@@ -9,7 +9,7 @@
 - Deep learning models (CNN-LSTM, CNN-BiLSTM, CNN-GRU, CNN-BiGRU)
 - Classical ensemble learners (Random Forest, Gradient Boosting)
 - Stacked meta-learning architecture
-- Evaluation on three datasets: Smart Belt (ALAMEDA), WISDM, and UCI HAR
+- Evaluation on three datasets: Smart Belt, WISDM, and UCI HAR
 
 ---
 
