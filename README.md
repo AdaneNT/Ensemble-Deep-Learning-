@@ -1,21 +1,16 @@
-# Ensemble Deep Learning for Human Activity Recognition (HAR)
-
+# Ensemble Deep Learning for Wearable Sensor Data Analysis
+**Human Activity Recognition (HAR) using Smart Belt, WISDM, and UCI Datasets**
 This repository contains the official code used in the published study:
-
 > **"Efficient Human Gait Activity Recognition Based on Sensor Fusion and Intelligent Stacking Framework"**  
 > Adane Tarekegn, Mario Giacobini, Gashaw Mamo, Ermias Asfaw  
 > *Published 2023*  
 > [DOI: 10.1007/978-3-031-29695-1_17](https://doi.org/10.1109/JSEN.2023.3319353)
 
----
-
 ## Highlights
-
-- Hybrid deep learning models: **CNN-BiGRU**, **CNN-BiLSTM**, **CNN-LSTM**, and **CNN-GRU**
-- **Stacked ensemble** learning using predictions from deep models
-- **Meta-learners**: Random Forest and Gradient Boosting (with GridSearchCV)
-- State-of-the-art accuracy on **multiple HAR datasets**
-- Visualizations: confusion matrix heatmaps and classification reports
+- Deep learning models (CNN-LSTM, CNN-BiLSTM, CNN-GRU, CNN-BiGRU)
+- Classical ensemble learners (Random Forest, Gradient Boosting)
+- Stacked meta-learning architecture
+- Evaluation on three datasets: Smart Belt (ALAMEDA), WISDM, and UCI HAR
 
 ---
 
