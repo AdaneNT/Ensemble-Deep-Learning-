@@ -39,21 +39,25 @@ This study evaluated the proposed hybrid deep ensemble model on three datasets:
 - 6 activity classes: Walking, Jogging, Upstairs, Downstairs, Sitting, Standing
 - Sampling rate: 20 Hz
 - Used **undersampling** for class balancing
-
+- WISDM Dataset Dataset link : https://www.cis.fordham.edu/wisdm/dataset.php
+  
 ### 2. UCI HAR
 - IMU data (accelerometer + gyroscope) from smartphones
 - 6 activities: Walking, Upstairs, Downstairs, Sitting, Standing, Lying
 - Sampling rate: 50 Hz
 - Preprocessed and balanced → no resampling needed
+- UCI HAR Dataset Dataset link: https://archive.ics.uci.edu/dataset/240/human+activity+recognition+using+smartphones
 
-### 3. **Smart Belt Dataset** (NTNU / ALAMEDA Project)
+### 3. **Smart Belt Dataset** 
 - Custom dataset collected from 12 participants using a belt with 3 IMU sensors
 - Sampling rate: 100 Hz
 - 6 activities: Walking (level, upstairs, downstairs), Sitting, Standing, Lying
 - Annotated using [**NOVA**](https://github.com/hcmlab/nova)
 - Data transferred to cloud using Wi-Fi-based belt design
 - **Oversampling** used for class balancing
-- Open access via: [ALAMEDA Project](https://alamedaproject.eu/)
+- Smart Belt Dataset: included in the [`dataset/`](./dataset/) folder  
+or accessed externally via: [ALAMEDA Project](https://alamedaproject.eu/)
+
 
 ---
 ## Framework Overview
