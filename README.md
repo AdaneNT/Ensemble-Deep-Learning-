@@ -9,7 +9,7 @@ This repository contains the official code used in the published study:
 
 ---
 
-## 📌 Project Highlights
+## Highlights
 
 - Hybrid deep learning models: **CNN-BiGRU**, **CNN-BiLSTM**, **CNN-LSTM**, and **CNN-GRU**
 - **Stacked ensemble** learning using predictions from deep models
@@ -19,7 +19,7 @@ This repository contains the official code used in the published study:
 
 ---
 
-## 🧠 Models Included
+## Models Included
 
 | Model Notebook                          | Description                         |
 |----------------------------------------|-------------------------------------|
@@ -31,7 +31,7 @@ This repository contains the official code used in the published study:
 
 ---
 
-## 📊 Datasets Used
+## Datasets Used
 
 This study evaluated the proposed hybrid deep ensemble model on three datasets:
 
@@ -67,11 +67,11 @@ This study evaluated the proposed hybrid deep ensemble model on three datasets:
 | CNN-BiLSTM        | ~99.87%    |
 | **Stacked Ensemble** | **99.96%** |
 
-📈 Confusion matrix heatmaps and classification reports are generated in each notebook.
+Confusion matrix heatmaps and classification reports are generated in each notebook.
 
 ---
 
-## 🚀 How to Run
+## How to Run
 
 Clone the repository:
 
