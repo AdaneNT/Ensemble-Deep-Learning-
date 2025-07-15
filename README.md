@@ -95,14 +95,6 @@ For the ensemble model:
 ```bash
 jupyter notebook 1__Stacked_ensemble_hybrid_model.ipynb
 ```
-## Results
-
-| Model             | Accuracy   |
-|------------------|------------|
-| CNN-BiGRU         | ~99.91%    |
-| CNN-LSTM          | ~99.91%    |
-| CNN-BiLSTM        | ~99.87%    |
-| **Stacked Ensemble** | **99.96%** |
 
 ---
 
