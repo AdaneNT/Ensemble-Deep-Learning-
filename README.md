@@ -24,9 +24,7 @@
 | `1__Stacked_ensemble_hybrid_model.ipynb`| Final ensemble using RF and GBoost |
 
 ---
-## Datasets Information
-
-This study evaluated the proposed hybrid deep ensemble model on three datasets:
+## Dataset Information
 
 ### 1. Smart Belt Dataset
 - Collected from 12 participants using a custom belt with 3 IMU sensors (sampling rate: 100 Hz)
