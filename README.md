@@ -24,7 +24,7 @@
 | `1__Stacked_ensemble_hybrid_model.ipynb`| Final ensemble using RF and GBoost |
 
 ---
-## Datasets Used
+## Datasets Information
 
 This study evaluated the proposed hybrid deep ensemble model on three datasets:
 
