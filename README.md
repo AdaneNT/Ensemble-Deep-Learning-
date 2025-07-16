@@ -97,13 +97,18 @@ jupyter notebook 1__Stacked_ensemble_hybrid_model.ipynb
 If you use this work, please cite the paper:
 
 ```bibtex
-@inproceedings{tarekegn2023gait,
-  title={Efficient Human Gait Activity Recognition Based on Sensor Fusion and Intelligent Stacking Framework},
-  author={Tarekegn, Adane and Giacobini, Mario and Mamo, Gashaw and Asfaw, Ermias},
-  booktitle={Innovations in Bio-Inspired Computing and Applications},
-  pages={179--190},
-  year={2023},
-  publisher={Springer}
+@article{tarekegn2023gait,
+  author    = {A. N. Tarekegn and M. Sajjad and F. A. Cheikh and M. Ullah and K. Muhammad},
+  title     = {Efficient Human Gait Activity Recognition Based on Sensor Fusion and Intelligent Stacking Framework},
+  journal   = {IEEE Sensors Journal},
+  volume    = {23},
+  number    = {22},
+  pages     = {28355--28369},
+  year      = {2023},
+  month     = {Nov. 15},
+  doi       = {10.1109/JSEN.2023.3319353},
+  keywords  = {Intelligent sensors;Activity recognition;Belts;Monitoring;Feature extraction;Medical services;Stacking;Belt sensor;deep learning (DL);gait activity recognition;sensor fusion;stacking ensemble;wearable sensor}
 }
+
 ```
 [DOI: 10.1007/978-3-031-29695-1_17](https://doi.org/10.1007/978-3-031-29695-1_17)
