@@ -76,7 +76,7 @@ Install dependencies:
 pip install -r requirements.txt
 ```
 
-Download the WISDM dataset and place `WISDM_ar_v1.1_raw.txt` in the project folder.
+Download the  dataset and place it in the project folder.
 
 Launch Jupyter and run any model notebook:
 
