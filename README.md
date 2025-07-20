@@ -1,4 +1,4 @@
-# Ensemble Deep Learning for Wearable Sensor Data Analysis
+## Sensor Fusion  and Ensemble Deep Learning for Wearable Sensor Data Analysis
 **Human Activity Recognition (HAR) using Smart Belt, WISDM, and UCI Datasets**
 
 > **"Efficient Human Gait Activity Recognition Based on Sensor Fusion and Intelligent Stacking Framework"**  
